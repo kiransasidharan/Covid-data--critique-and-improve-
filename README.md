@@ -1,2 +1,2 @@
 # Covid-data--critique-and-improve-
-Importance of ethical and accurate data visualisation around Covid-19. Challenging misleading graphics which can shape public perception.
+Your work highlights the importance of ethical and accurate data visualization, showing how misleading graphics can shape public perception. You advocate for better transparency in media reporting by suggesting a more robust approach to data presentation.
